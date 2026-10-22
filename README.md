@@ -11,5 +11,3 @@ What is in this repo:
 - index.html: the submission page
 - maps/: the two maps as PNG files
 - R/: the R scripts behind the maps (the page shows the same code)
-
-The full project, with data and tests, is at https://github.com/Michaelhamaty/Math-167R-Assignment-4
